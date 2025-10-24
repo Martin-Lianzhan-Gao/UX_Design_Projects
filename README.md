@@ -44,8 +44,8 @@ Create a next-generation fitness application that merges **3D interactive experi
 
 **Martin Gao**  
 UX/UI Designer & Developer  
-[GitHub Profile](https://github.com/martingaoorglz)  
-[LinkedIn](#)
+[GitHub Profile](https://github.com/Martin-Lianzhan-Gao)  
+[LinkedIn](www.linkedin.com/in/martin-lianzhan-gao)
 
 ---
 
